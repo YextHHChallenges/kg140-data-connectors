@@ -1,0 +1,13 @@
+{
+  "$id": "c_territory",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Territory",
+  "typeId": "yext/string",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}
