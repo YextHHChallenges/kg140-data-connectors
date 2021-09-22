@@ -1,20 +1,20 @@
 {
   "$id": "1",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
-  "entityType": "yext/restaurant",
+  "entityType": "restaurant",
   "content": {
     "c_territory": "Texas",
-    "yext/address": {
+    "address": {
       "city": "Austin",
       "countryCode": "US",
       "line1": "1313 S. 1st Street",
       "postalCode": "78704",
       "region": "TX"
     },
-    "yext/addressHidden": false,
-    "yext/mainPhone": "+15125559331",
-    "yext/name": "Turtlehead Tacos",
-    "yext/photoGallery": [
+    "addressHidden": false,
+    "mainPhone": "+15125559331",
+    "name": "Turtlehead Tacos",
+    "photoGallery": [
       {
         "image": {
           "height": 874,
@@ -41,6 +41,6 @@
         }
       }
     ],
-    "yext/timezone": "America/Chicago"
+    "timezone": "America/Chicago"
   }
 }
